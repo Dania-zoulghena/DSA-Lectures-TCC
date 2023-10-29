@@ -27,7 +27,7 @@ namespace Binary_Search_Homework // don't edit this line!!!
                 if (arr[mid2] == key)
                 {
                     return mid2 + 1;
-                }
+                } 
 
                 if (key < arr[mid1])
                 {
